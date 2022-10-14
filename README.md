@@ -4,6 +4,8 @@
 ![JAVA](https://img.shields.io/badge/-JAVA-090909?style=for-the-badge&logo=java&logoColor=47C5FB)
 ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php&logoColor=097CDB)
 ![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=FFED00)
+![VUEJS](https://img.shields.io/badge/-VueJs-090909?style=for-the-badge&logo=vue.js&logoColor=00b300)
+![NGINX](https://img.shields.io/badge/-NGINX-090909?style=for-the-badge&logo=nginx&logoColor=00cc00)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=e34c26)
 
 ### Follow Me:
